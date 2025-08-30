@@ -10,7 +10,7 @@
 - 🌱 Learning: **React, Next.js, Spring Boot** for full-stack development  
 - 💡 Experienced in **C++** for IoT & embedded systems  
 - 🎮 Exploring **Game Development with Godot**  
-- 📫 Reach me: [Email](aiyapatv@hotmail.com)
+- 📫 Reach me: aiyapatv@hotmail.com
 
 ---
 
